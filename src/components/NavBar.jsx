@@ -2,8 +2,8 @@ import { Button, Flex, Stack, Text } from "@chakra-ui/react";
 
 const NavBar = () => {
   return (
-    <Stack minH={"100vh"}>
-      <Flex alignItems={"center"} justifyContent={"space-between"} p={6}>
+    <Stack minH={"fit"}>
+      <Flex alignItems={"center"} justifyContent={"space-between"}>
         <Flex>
           <Text fontWeight={"bold"} textStyle={"3xl"}>
             Aether
