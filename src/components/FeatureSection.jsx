@@ -36,8 +36,8 @@ const FeatureSection = () => {
                 </Flex>
                 <Flex maxW={"300px"}>
                   <Text>
-                    Find your place in the world of fitness! Share your progress
-                    with other people
+                    Monitor your fitness progress with detailed charts and
+                    analytics
                   </Text>
                 </Flex>
               </Stack>
@@ -52,8 +52,8 @@ const FeatureSection = () => {
                 </Flex>
                 <Flex maxW={"300px"}>
                   <Text>
-                    Find your place in the world of fitness! Share your progress
-                    with other people
+                    Keep an eye on your goals and progress. See how much you are
+                    improving week by week
                   </Text>
                 </Flex>
               </Stack>
