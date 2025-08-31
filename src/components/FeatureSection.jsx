@@ -8,7 +8,7 @@ const FeatureSection = () => {
         <Flex>
           <Text textStyle={"2xl"}>Features</Text>
         </Flex>
-        <Stack minH={"50vh"} alignItems={"center"} pt={6} gap={4}>
+        <Stack minH={"30vh"} alignItems={"center"} pt={6} gap={4}>
           <Flex justifyContent={"space-between"} gap={14}>
             <Flex>
               <Stack>
